@@ -1,3 +1,5 @@
+![HydroML](images/Hydro_ML.png)
+
 # Intro to Machine Learning
 
 Project Overview
